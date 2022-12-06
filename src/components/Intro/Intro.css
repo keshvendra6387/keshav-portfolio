@@ -111,4 +111,8 @@
     /* display: none; */
     top: -7rem !important;;
   }
+  #boy{
+    width: 33vh;
+    margin-left: 75px;
+  }
 }

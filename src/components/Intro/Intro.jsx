@@ -51,7 +51,7 @@ const Intro = () => {
       <div className="i-right">
         <img src={Vector1} alt=""/>
         <img src={Vector2} alt="" />
-        <img src={boy} alt=""  style={{width:'37%',marginLeft:'25px'}}/>
+        <img src={boy} alt=""  style={{width:'35vh'}} id="boy"/>
         {/* animation */}
         <motion.img
           initial={{ left: "-36%" }}
